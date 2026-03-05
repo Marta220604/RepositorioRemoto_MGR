@@ -7,6 +7,9 @@ public class Clase_pruebaGit {
 
 		System.out.print("Mensaje 2");
 		System.out.print("Mensaje 3");
+		
+		System.out.print("Mensaje 4");
+		System.out.print("Mensaje 5");
 	}
 
 }
